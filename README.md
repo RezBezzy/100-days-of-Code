@@ -1,4 +1,4 @@
-00 Days of Code – My (Python) Solutions
+100 Days of Code – My (Python) Solutions
 
 This repository contains my personal solutions for the
 “100 Days of Code – Python” course by Dr. Angela Yu.
